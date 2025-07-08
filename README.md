@@ -27,7 +27,6 @@
 - Mentor junior developers and contribute to open-source projects.  
 
 
-🔍 **Open to collaborations, freelance projects, and tech discussions!**  
 
 
 Would you like any modifications (e.g., more focus on DevOps, AI, or mobile development)? Let me know! 🚀
