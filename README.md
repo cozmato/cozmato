@@ -26,15 +26,6 @@
 - Automate workflows using DevOps best practices.  
 - Mentor junior developers and contribute to open-source projects.  
 
-### 📂 **Featured Projects**  
-- **[E-Commerce Platform](https://github.com/joseph-abu/ecommerce)** – Built with MERN stack (MongoDB, Express, React, Node).  
-- **[Task Management API](https://github.com/joseph-abu/task-api)** – A RESTful service using Django & PostgreSQL.  
-- **[DevOps Automation](https://github.com/joseph-abu/devops-setup)** – CI/CD pipeline with Docker & AWS.  
-
-### 📫 **Let’s Connect**  
-- LinkedIn: [Joseph Abu](https://www.linkedin.com/in/joseph-abu)  
-- Twitter: [@JosephAbu_Dev](https://twitter.com/JosephAbu_Dev)  
-- Portfolio: [https://joseph-abu.dev](https://joseph-abu.dev)  
 
 🔍 **Open to collaborations, freelance projects, and tech discussions!**  
 
